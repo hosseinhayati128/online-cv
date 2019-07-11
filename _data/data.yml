@@ -78,31 +78,213 @@ experiences:
           - Train subordinates in programming and program coding
           
 projects:
-    title: Projects
+    title: Iran Tourism Project/ Nationwide
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Managment panel
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
 
-      - title: Tempo
+      - title: Statistic panel
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
 
-      - title: Atom
+      - title: stand payment
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
 
-      - title: Delta
+    title: Sepandaar Project/Nationwide
+    intro: >
+      A nationwide project to automate all subways payment in Iran
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A panel to manage subways with ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+    title: Automate Payment Project/Kish Island
+    intro: >
+      In this project we made a payment device using NanoPi and ARM and using NFC to read the customer cards
+      the main project was created using Altium Designer , python and C and shell script.
+      
+    assignments:
+      - title: SD Card shock protection
+        link: "#"
+        tagline: "A way to protect data and transactions of SDcard on electrical shock "
+
+      - title: temperature control alert
+        link: "#"
+        tagline: "shell script and python code to alert if temperature is so high "
+
+    
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
+    title: Iran Tourism Project/ Nationwide
+    intro: >
+      A nationwide project to automate and organize all of tourism places in Iran.
+      backend mostly written in python/django.
+      frontend in Android , JavaScript , CSS , Bootstrap , HTML , django 
+      
+    assignments:
+      - title: Managment panel
+        link: "#"
+        tagline: "A panel to manage provinces , cities , places and each museum or Tourism place in Iran, ability to change them , edit or delete them , define new vouchers , limits , and price . see statistics of each transaktion or ticket and etc with different permission for each user"
+
+      - title: Statistic panel
+        link: "#"
+        tagline: "A panel with different pages to give you live statistic of each place or the whole project etc."
+
+      - title: stand payment
+        link: "#"
+        tagline: "It was webpage that was implimented on a stand payment so customers could buy ticket , it was later replaced with android stands"
 
 publications:
     title: Publications
